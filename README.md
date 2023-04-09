@@ -26,3 +26,6 @@ To get started with the project, follow these steps:
 ###### Clone the project repository from GitHub.
 ###### Open the project in your preferred code editor (e.g., VSCode).
 ###### Start coding the website design using HTML, CSS, and vanilla JavaScript.
+
+## The Website
+[https://misksawalha.github.io/nezuko/]
